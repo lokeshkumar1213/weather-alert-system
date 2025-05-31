@@ -14,11 +14,7 @@ A real-time weather monitoring app that alerts users when temperature or wind sp
 - Python 3.8+
 - `streamlit`, `requests`, `python-dotenv`, `streamlit-autorefresh`
 
-## ▶️ How to Run Locally
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/weather-alert-system.git
 
 2.Install dependencies:
 pip install streamlit requests python-dotenv streamlit-autorefresh
